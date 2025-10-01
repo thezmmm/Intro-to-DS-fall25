@@ -2,7 +2,7 @@
 
 This repository contains all my assignments for the [Introduction to Data Science](https://courses.mooc.fi/org/uh-cs/courses/introduction-to-data-science) course, including code and reports.
 
-And the course project repository is [here]([thezmmm/BookTrendsRecSys](https://github.com/thezmmm/BookTrendsRecSys/tree/main)).
+And the course project repository is [here](https://github.com/thezmmm/BookTrendsRecSys/tree/main).
 
 ## Assignments
 
