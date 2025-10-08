@@ -6,13 +6,15 @@ And the course project repository is [here](https://github.com/thezmmm/BookTrend
 
 ## Assignments
 
-| Assignment | Title                            | Date       |
-| ---------- | -------------------------------- | ---------- |
-| Exercise1  | Data preprocessing               | 2025-09-08 |
+| Assignment | Title                       | Date       |
+|------------|-----------------------------|------------|
+| Exercise1  | Data preprocessing          | 2025-09-08 |
 | Exercise2  | Geospatial and longitudinal data | 2025-09-15 |
-| Exercise3  | Dimensionality reduction         | 2025-09-22 |
-| Exercise4  | Deep Learning                    | 2025-09-29 |
-| Exercise5  | GDPR: What is personal data?     | 2025-10-06 |
+| Exercise3  | Dimensionality reduction    | 2025-09-22 |
+| Exercise4  | Deep Learning               | 2025-09-29 |
+| Exercise5  | GDPR: What is personal data? | 2025-10-06 |
+| Exercise6  | Big data management          | 2025-10-13 |
+
 
 ## Requirements
 
